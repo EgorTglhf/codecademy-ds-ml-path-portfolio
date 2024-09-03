@@ -9,3 +9,4 @@ Projects completed as part of the course are collected here. Every project in th
 ### Machine Learning
 - __portfolio-project-ml-linear-regression__: The first small project in ML part of the course shows knowledge of implementing linear regression from the Scikit-Learn library. The data has been given by Codecademy from the Association of Tennis Professionals (ATP) for analyzing and modeling.
 - __portfolio-project-ml-logistic-regression__: The second small project in ML part of the course shows knowledge of implementing logistic regression from the Scikit-Learn library. The data has been given by Codecademy. It is a small portion of Synthetic Financial Datasets For Fraud Detection from kaggle.com.
+- __portfolio-project-ml-k-nearest-neighbors__: The third small project in ML part of the course shows knowledge of implementing K nearest neighbors algorithm from the Scikit-Learn library. The data has been given by Codecademy from sklearn.datasets.
