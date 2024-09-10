@@ -18,3 +18,6 @@ Projects completed as part of the course are collected here. Every project in th
 - [__portfolio-project-ml-svc__](portfolio-project-ml-svc/baseball_data.ipynb): The ninth small project in ML part of the course shows knowledge of implementing Support Vector Classification from the Scikit-Learn library. The data has been taken from pybaseball library.
 - [__portfolio-project-ml-naive-bayes__](portfolio-project-ml-naive-bayes/emails.ipynb): The tenth small project in ML part of the course shows knowledge of implementing Multinomial Naive Bayes from the Scikit-Learn library. The data has been taken from sklearn.datasets library.
 - [__portfolio-project-ml-perceptron__](portfolio-project-ml-perceptron/logic_gates.ipynb): The eleventh small project in ML part of the course shows knowledge of implementing Perceptron from the Scikit-Learn library.
+
+### Final project
+- [__final-portfolio-project-ml-okcupid__](final-portfolio-project-ml-okcupid/date-a-scientist.ipynb): The final project in the entire course Career Path Data Scientist: Machine Learning Specialist.
